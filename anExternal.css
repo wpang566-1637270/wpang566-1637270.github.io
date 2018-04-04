@@ -1,4 +1,4 @@
 img {
-  border-radius: 40%;
+  border-image-repeat: round;
   float: right;
 }
